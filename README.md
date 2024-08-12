@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @firdausjuanda
-- 👀 I’m interested in MERN Stack
-- 🌱 I’m currently learning Mobile app using Ionic
-- 💞️ I’m looking to collaborate on this project
+- 💞️ I’m open to collaborate on any project
 - 📫 Please reach me firdausjuanda@hotmail.com
 
 <!---
