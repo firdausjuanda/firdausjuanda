@@ -1,8 +1,23 @@
-- 👋 Hi, I’m @firdausjuanda
-- 💞️ I’m open to collaborate on any project
-- 📫 Please reach me firdausjuanda@hotmail.com
+# 👋 Hi, I'm Joe
 
-<!---
-firdausjuanda/firdausjuanda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💻 Software Engineer based in UAE  
+🚀 Passionate about building scalable and efficient systems  
+
+---
+
+## 🛠 Tech Stack
+- React & Next.js
+- PHP (Laravel)  
+- JavaScript / TypeScript (Angular)  
+- MySQL, REST APIs  
+
+---
+
+## ⚡ About Me
+- 🔭 Working on fullstack  
+- 🌱 Always learning and improving  
+- 💡 Focused on clean and maintainable code  
+
+---
+
+> Keep it simple, scalable, and maintainable 🚀
